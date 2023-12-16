@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.google-img {
+  height: 10%;
+  width: 20%;
+  margin: 10px;
+}
+
+.search-icon {
+  height: 20px;
+}
+
+.search-cont {
+  display: flex;
+  justify-content: flex-start;
+  margin: 10px;
+}
+
+.search-box {
+  border: 0;
+  outline: none;
+  width: 90%;
+}
+
+.card-cont {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 20px;
+  padding: 10px;
+  width: 50%;
+  margin-left: 0;
+}
+.list-items-cont {
+  margin-left: 0;
+}

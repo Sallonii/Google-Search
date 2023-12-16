@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.suggestions-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  list-style-type: none;
+}
+.arrow-icon {
+  height: 20px;
+}
